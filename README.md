@@ -1,30 +1,175 @@
-<h1 align="center">Hi 👋, I'm tasinshanto</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 Computer Science Student | 🚀 Open Source Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasinshanto&label=Profile%20views&color=0e75b6&style=flat" alt="tasinshanto" /> </p>
+# Hi 👋, I'm Tasin Shanto
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasinshanto" alt="tasinshanto" /></a> </p>
+### 💻 Full Stack Developer | 🎓 CSE Student | 🚀 Passionate Problem Solver
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+PHP+Developer;MySQL+Database+Designer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
-- 🔭 I’m currently working on [Blood-Flow-Web](https://github.com/tasinshanto/Blood-Flow-Web)
+<img src="https://komarev.com/ghpvc/?username=tasinshanto&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-- 👯 I’m looking to collaborate on [emergency-999](https://github.com/tasinshanto/emergency-999)
+</div>
 
-- 📫 How to reach me **hmtasinshanto@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+# 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Full Stack Web Developer
+- 🌱 Currently learning **React.js, Node.js, Express.js**
+- 🚀 Passionate about building real-world applications
+- 🩸 Developed **BloodFlow – Blood Donation Management System**
+- 🚑 Currently working on **Emergency_999**
+- 📧 Email: **hmtasinshanto@gmail.com**
+- ⚡ Fun Fact: *I enjoy solving programming problems and building useful software.*
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/tasin shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasin shanto" height="30" width="40" /></a>
-<a href="https://fb.com/tasin shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasin shanto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tasin_shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tasin_shanto" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasinshanto&show_icons=true&locale=en&layout=compact" alt="tasinshanto" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasinshanto&show_icons=true&locale=en" alt="tasinshanto" /></p>
+### Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasinshanto&" alt="tasinshanto" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
+
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🩸 BloodFlow
+A Complete Blood Donation Management System.
+
+### Features
+
+- User Authentication
+- Donor Management
+- Blood Request System
+- Admin Dashboard
+- Hospital Dashboard
+- Blood Inventory
+
+---
+
+## 🚑 Emergency_999
+
+An Emergency Service Management System that helps users quickly connect with emergency services.
+
+### Features
+
+- 🚑 Ambulance Service
+- 👮 Police Emergency
+- 🔥 Fire Service
+- 🏥 Hospital Finder
+- 📍 Live Location Support
+- ☎️ Emergency Contacts
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tasinshanto&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinshanto&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=tasinshanto&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tasinshanto&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasinshanto&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:hmtasinshanto@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tasinshanto">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/tasin-shanto/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+
+<a href="https://www.facebook.com/tasin.shanto.2025">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving my repositories a ⭐.
+
+</div>
